@@ -15,7 +15,11 @@ The goal of this project is to run **WordPress** in a **serverless container env
 1. **Clone the Repository**
 
    git clone https://github.com/justinidahosa/fargate-wordpress-terraform.git
+   
    cd fargate-wordpress-terraform
+   
    terraform init
+   
    terraform plan
+   
    terraform apply
